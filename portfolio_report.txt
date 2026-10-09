@@ -1,0 +1,11 @@
+SMART STOCK PORTFOLIO REPORT
+============================
+Stock: TSLA
+Company: Tesla
+Number of Shares: 5
+Purchase Price: 400.0
+Current Price: 350.0
+Total Investment: 2000.0
+Current Value: 1750.0
+Profit/Loss: -250.0
+Profit Percentage: -12.5%
